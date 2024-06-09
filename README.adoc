@@ -1,14 +1,43 @@
-=== 👋🏾 Saluton, soy Franklin 👨🏿‍💻
+= 👋🏾 Saluton! Mi nombre es Franklin  👨🏿‍💻
 
-> [source,js]
-> const franklin = {
->  pronoums: "he" | "him",
->  code: [HTML, CSS, JavaScript, Python, C, asciidoc],
->  tools: [vim, tmux, git, asciidoctor],
-> }
 
-image:https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffrnklncdn[X (formerly Twitter) URL]
+== Profesional
 
-== Sobre mí
+* *Profesor Universitario de Informática* 👨🏾‍🏫
 
-* 👨🏾‍🏫 Profesor de Informática
+== Contacto
+
+https://x.com/frnklncdn[image:https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white[X]]
+
+== Tecnologías
+
+🚀 *Lenguajes*
+
+image:https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white[Shell Script]
+image:https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white[C]
+image:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54[Python]
+image:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white[HTML5]
+image:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white[CSS3]
+image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript]
+
+📝 *IDEs/Editores*
+
+image:https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white[Vim]
+image:https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white[Obsidian]
+image:https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white[Visual Studio Code]
+
+*Control de Versiones*
+
+image:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white[Git]
+image:https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white[GitLab]
+image:https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white[GitHub]
+
+🗃️ *Base de Datos*
+
+image:https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white[MariaDB]
+
+💻 *Sistemas Operativos*
+
+image:https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black[Linux]
+image:https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white[Debian]
+image:https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white[Windows 11]
