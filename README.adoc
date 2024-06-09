@@ -1,10 +1,9 @@
 = 👋🏾 Saluton Mundo, Mi estas Franklin Cedeño Cocho!
 
- [source,js]
-----
+[source,js]
 const franklin-cedeno-cocho = {
   pronoums: "he" | "him",
   code: [HTML, CSS, JavaScript, Python, C, asciidoc],
   tools: [vim, tmux, git, asciidoctor],
 }
-----
+
