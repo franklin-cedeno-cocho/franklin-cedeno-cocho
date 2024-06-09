@@ -1,12 +1,14 @@
-=== 👋🏾 Saluton, Mi estas Franklin 👨🏿‍💻
+=== 👋🏾 Saluton, soy Franklin 👨🏿‍💻
 
 > [source,js]
-> const franklin-cedeno-cocho = {
+> const franklin = {
 >  pronoums: "he" | "him",
 >  code: [HTML, CSS, JavaScript, Python, C, asciidoc],
 >  tools: [vim, tmux, git, asciidoctor],
 > }
 
-> You can find me 🌎:
+image:https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffrnklncdn[X (formerly Twitter) URL]
 
-> * https://x.com/FranklinCedenoC[Twitter]
+== Sobre mí
+
+* 👨🏾‍🏫 Profesor de Informática
