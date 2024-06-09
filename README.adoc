@@ -1,4 +1,4 @@
-= 👋🏾 Saluton Mundo, Mi estas Franklin Cedeño Cocho!
+= Saluton, Mi estas Franklin 👋🏾 👨🏿‍💻
 
 [source,js]
 const franklin-cedeno-cocho = {
