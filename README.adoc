@@ -1,6 +1,2 @@
-= 👋🏾 Saluton, Mi estas Franklin Cedeño Cocho!
+= 👋🏾 Saluton Mundo, Mi estas Franklin Cedeño Cocho!
 
-[source,bash]
-----
-echo "Hola Mundo!"
-----
