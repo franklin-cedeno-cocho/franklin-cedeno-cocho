@@ -1,9 +1,12 @@
-= Saluton, Mi estas Franklin 👋🏾 👨🏿‍💻
+=== 👋🏾 Saluton, Mi estas Franklin 👨🏿‍💻
 
-[source,js]
-const franklin-cedeno-cocho = {
-  pronoums: "he" | "him",
-  code: [HTML, CSS, JavaScript, Python, C, asciidoc],
-  tools: [vim, tmux, git, asciidoctor],
-}
+> [source,js]
+> const franklin-cedeno-cocho = {
+>  pronoums: "he" | "him",
+>  code: [HTML, CSS, JavaScript, Python, C, asciidoc],
+>  tools: [vim, tmux, git, asciidoctor],
+> }
 
+> You can find me 🌎:
+
+> * https://x.com/FranklinCedenoC[Twitter]
